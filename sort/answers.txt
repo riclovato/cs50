@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: had the fastest time of the 3 in a sorted list ( close to sort2 but i already know sort2 is merge sort comparing the times of a unsorted list)
+
+sort2 uses: Merge Sort
+
+How do you know?: in the same unsorted list had the best time
+
+sort3 uses: Selection Sort
+
+How do you know?: is the slower of the 3 in the same sorted list
